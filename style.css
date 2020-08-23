@@ -1,0 +1,51 @@
+header{
+   height:120vh;
+}
+.hero-image {
+  background-image: url("Image.jpg");
+  background-size: cover;
+}
+.hero-image1 {
+  background-image: url("Image2.jpg");
+  background-size: cover;
+  height: 800;
+  width: 600;
+}
+.container{
+        align-items: center;
+        justify-content: center; 
+
+        padding: 20px;
+        border: 1px solid rgb(30, 122, 12);
+        border-radius: 10px;
+        margin: 20px auto;
+        box-shadow: 0 0 5px #333;
+        background-color: rgb(4, 74, 95);
+      }
+      #tabl{
+        display:none;
+      }
+      .tab{
+        margin-top: 30px;
+        padding-left: 60px;
+
+
+   
+      }
+      .cont{
+        padding-top: 30px;
+        text-align: center;
+        font-size: 40px;
+      }
+
+     
+.navbar a{
+    margin-left: center;
+    text-align:center;
+    font-size: 40px;
+}
+
+
+  
+
+ 
